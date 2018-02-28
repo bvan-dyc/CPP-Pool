@@ -1,8 +1,9 @@
-#CPP Pool
+# CPP Pool
+
 C++ learning pool (bootcamp) of the 42 school
 
 
-## Covered notions
+### Covered notions
 
 D00 - C++ Basics, Namespace, class, member functions, stdio stream, initialization lists, static, const
 
