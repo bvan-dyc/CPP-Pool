@@ -1,6 +1,6 @@
 # CPP Pool
 
-C++ learning pool (bootcamp) of the 42 school
+C++ learning pool (bootcamp) of the 42 school. Two weeks of intensive learning to master new programming languages and softwares.
 
 
 ### Covered notions
